@@ -19,3 +19,4 @@ Como estava sem fazer nada na hora porque estava de férias resolvi me desafiar 
   <li>Lucide React</li>
 </ol>
 
+PS: Ainda vou continuar programando a aplicação por isso, esse é um primeiro estagio. Farei o back e mais páginas para a aplicação completa.  
